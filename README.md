@@ -48,4 +48,4 @@ Please Visit : <a href="https://youtu.be/u6wYCXrju6w">Project Demo</a>
 
 ## 🪶Build Using Following technology and tools :
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDU4GdoVUEqJ1xsaB6PwQX_Tm4xR-ti98qu8DjxImI9aEEex5VlwHpOUXoIX2HD8wl-iE&usqp=CAU" width="120px" height="80px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="52px" height="52px"/> &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDU4GdoVUEqJ1xsaB6PwQX_Tm4xR-ti98qu8DjxImI9aEEex5VlwHpOUXoIX2HD8wl-iE&usqp=CAU" width="120px" height="52px">
